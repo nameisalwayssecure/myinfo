@@ -1,0 +1,6 @@
+## Info
+- Its recommended to first visit Dortania Opencore site befor
+- We will use Opencore Simplify for EFI and USBTOOLBOX.KEXT and USBMAP.KEXT and add it manually and configure config.plist via OCAT
+- Also view some EFI prepared by other referring to same / similar model
+- Also view EFI from Olarila [but never use that directly cuz will not be supported by this installlation way] and check and compare the Quirks/Patches/Boot-ARGS and try to boot with them once
+- After booting configure the things that you like.

@@ -1,0 +1,5 @@
+## Info
+- currently up to date with opencore and MacOS
+- using itwln.kext insted of airtportitwln.kext
+- while in windows, edit the content/info.plist of itwln.kext and add your wifi via notepad
+- use heliport on macos to connect to other wifi
